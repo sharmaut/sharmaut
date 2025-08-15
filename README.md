@@ -21,10 +21,10 @@ A developer based in Australia, with a passion for building full-stack, AI-power
 
 ### 📖 My Open Source Contributions
 
-* **[Notes & Quiz App]([Link to your Pull Request]):** Revamped the UI/UX for student and admin dashboards on a full-stack MERN educational platform using React and Tailwind CSS.
-* **[Coffy Database Engine]([Link to your Pull Request]):** Implemented a new `.sort()` method for the NoSQL query engine and authored a full suite of unit tests.
-* **[Reddit-MovieSuggesions-extension]([Link to Your Pull Request]):** Enhanced API traceability and refactored the project structure for multi-browser support.
-* **[pwndbg]([Link to Your Pull Request]):** Implemented a collapsible output feature for a core heap visualization command to reduce visual noise for GDB users.
+* **[Notes & Quiz App](https://github.com/sharmaut/Notes-Quiz-APP) - Core Collaborator:** Revamped the UI/UX for student and admin dashboards on a full-stack MERN educational platform using React and Tailwind CSS.
+* **[Coffy Database Engine](https://github.com/sharmaut/Coffy_QueryBuilder) - Contributor:** Implemented a new `.sort()` method for the NoSQL query engine and authored a full suite of unit tests.
+* **[Reddit-MovieSuggesions-extension](https://github.com/sharmaut/reddit-MovieSuggesions-extension) - Contributor:** Enhanced API traceability and refactored the project structure for multi-browser support.
+* **[pwndbg](https://github.com/sharmaut/pwndbg_issue2607) - Contributor:** Implemented a collapsible output feature for a core heap visualization command to reduce visual noise for GDB users.
 
 ---
 
