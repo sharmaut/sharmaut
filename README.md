@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Utsav</h1>
 
-<!--
-**sharmaut/sharmaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+A developer based in Australia, with a passion for building full-stack, AI-powered web applications. I specialize in turning complex data into intuitive user experiences, with a strong focus on clean architecture, automated deployment, and open-source collaboration.
+</p>
 
-Here are some ideas to get you started:
+<p align="center"> 
+  <a href="https://linkedin.com/in/utsav-sharma-069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsav-sharma-069" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 My Personal Projects
+
+* **[Full-Stack LMS Platform](https://github.com/sharmaut/laravel_lms-platform):** A complete Learning Management System built with Laravel, React, and Docker, featuring an automated CI/CD pipeline.
+* **[AI-Powered Stock Sentiment Analysis](https://github.com/sharmaut/StockMarket-SentimentalAnalysis):** A tool that scrapes and analyzes market sentiment from news and social media to provide trading insights.
+* **[Medical Information Summarizer (RAG)](https://github.com/sharmaut/RAG-Summarizer):** A system that uses Retrieval-Augmented Generation to make complex medical documents easy to understand.
+* **[Real-Time Face Recognition](https://github.com/sharmaut/Face-Recognition):** A system built in Python that detects and identifies individuals from a live webcam feed.
+
+---
+
+### 📖 My Open Source Contributions
+
+* **[Notes & Quiz App]([Link to your Pull Request]):** Revamped the UI/UX for student and admin dashboards on a full-stack MERN educational platform using React and Tailwind CSS.
+* **[Coffy Database Engine]([Link to your Pull Request]):** Implemented a new `.sort()` method for the NoSQL query engine and authored a full suite of unit tests.
+* **[Reddit-MovieSuggesions-extension]([Link to Your Pull Request]):** Enhanced API traceability and refactored the project structure for multi-browser support.
+* **[pwndbg]([Link to Your Pull Request]):** Implemented a collapsible output feature for a core heap visualization command to reduce visual noise for GDB users.
+
+---
+
+### 🛠️ My Core Tech Stack
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmaut&show_icons=true&theme=tokyonight" alt="sharmaut's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaut&layout=compact&theme=tokyonight" alt="sharmaut's top languages" />
+</p>
