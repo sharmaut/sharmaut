@@ -22,7 +22,7 @@ A developer based in Australia, with a passion for building full-stack, AI-power
 ### 📖 My Open Source Contributions
 
 * **[Notes & Quiz App](https://github.com/sharmaut/Notes-Quiz-APP) - Core Collaborator:** Revamped the UI/UX for student and admin dashboards on a full-stack MERN educational platform using React and Tailwind CSS.
-* **[ZIO Frameword](https://github.com/sharmaut/zio_9909) - Contributor:** Contributed a robust lifecycle test suite to ZIO, a high-performance functional effects library for Scala. The work enhances the reliability of ZIOAppDefault by simulating real-world shutdown scenarios and verifying correct behavior under signals, timeouts, and finalization.
+* **[ZIO Framework](https://github.com/sharmaut/zio_9909) - Contributor:** Contributed a robust lifecycle test suite to ZIO, a high-performance functional effects library for Scala. The work enhances the reliability of ZIOAppDefault by simulating real-world shutdown scenarios and verifying correct behavior under signals, timeouts, and finalization.
 * **[Coffy Database Engine](https://github.com/sharmaut/Coffy_QueryBuilder) - Contributor:** Implemented a new `.sort()` method for the NoSQL query engine and authored a full suite of unit tests.
 * **[pwndbg](https://github.com/sharmaut/pwndbg_issue2607) - Contributor:** Implemented a collapsible output feature for a core heap visualization command to reduce visual noise for GDB users.
 
