@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utsav</h1>
 
 <p align="center">
-A developer based in Australia, with a passion for building full-stack, AI-powered web applications. I specialize in turning complex data into intuitive user experiences, with a strong focus on clean architecture, automated deployment, and open-source collaboration.
+A developer based in Australia, with a passion for building full-stack, AI-powered web applications. I specialize in turning complex data into intuitive user experiences, with a strong focus on clean architecture, automated deployment and actively pursuing open-source collaboration.
 </p>
 
 <p align="center"> 
@@ -24,7 +24,7 @@ A developer based in Australia, with a passion for building full-stack, AI-power
 * **[Notes & Quiz App](https://github.com/sharmaut/Notes-Quiz-APP) - Core Collaborator:** Revamped the UI/UX for student and admin dashboards on a full-stack MERN educational platform using React and Tailwind CSS.
 * **[ZIO Framework](https://github.com/sharmaut/zio_9909) - Contributor:** Contributed a robust lifecycle test suite to ZIO, a high-performance functional effects library for Scala. The work enhances the reliability of ZIOAppDefault by simulating real-world shutdown scenarios and verifying correct behavior under signals, timeouts, and finalization.
 * **[Coffy Database Engine](https://github.com/sharmaut/Coffy_QueryBuilder) - Contributor:** Implemented a new `.sort()` method for the NoSQL query engine and authored a full suite of unit tests.
-* **[pwndbg](https://github.com/sharmaut/pwndbg_issue2607) - Contributor:** Implemented a collapsible output feature for a core heap visualization command to reduce visual noise for GDB users.
+* **[Izumi Performance Optimization](https://github.com/sharmaut/izumireflect_issue350) - Contributor:** Contributed to izumi-reflect, a high-performance reflection library for Scala used in the ZIO ecosystem. I implemented a compile-time cache for macro-generated type tags, which significantly improves compilation speed for users of the library.
 
 ---
 
