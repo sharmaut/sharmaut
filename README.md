@@ -22,7 +22,7 @@ A developer based in Australia, with a passion for building full-stack, AI-power
 ### 📖 My Open Source Contributions
 
 * **[Notes & Quiz App](https://github.com/sharmaut/Notes-Quiz-APP) - Core Collaborator:** Revamped the UI/UX for student and admin dashboards on a full-stack MERN educational platform using React and Tailwind CSS.
-* **[ZIO Framework](https://github.com/sharmaut/zio_9909) - Contributor:** Contributed a robust lifecycle test suite to ZIO, a high-performance functional effects library for Scala. The work enhances the reliability of ZIOAppDefault by simulating real-world shutdown scenarios and verifying correct behavior under signals, timeouts, and finalization.
+* **[ZIO Framework Test Suite](https://github.com/sharmaut/zio-testsuite-9909) - Contributor:** Contributed a robust lifecycle test suite to ZIO, a high-performance functional effects library for Scala. The work enhances the reliability of ZIOAppDefault by simulating real-world shutdown scenarios and verifying correct behavior under signals, timeouts, and finalization.
 * **[Coffy Database Engine](https://github.com/sharmaut/Coffy_QueryBuilder) - Contributor:** Implemented a new `.sort()` method for the NoSQL query engine and authored a full suite of unit tests.
 * **[Izumi Performance Optimization](https://github.com/sharmaut/izumireflect_issue350) - Contributor:** Contributed to izumi-reflect, a high-performance reflection library for Scala used in the ZIO ecosystem. I implemented a compile-time cache for macro-generated type tags, which significantly improves compilation speed for users of the library.
 
